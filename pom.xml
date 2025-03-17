@@ -15,15 +15,15 @@
 	</properties>
 
 	<distributionManagement>
-		 <snapshotRepository>
-		    <id>NexusRepo</id>
-		    <url>http://3.82.60.149:8081/repository/pipeline-snapshot/</url>
-		 </snapshotRepository>
+    <snapshotRepository>
+        <id>NexusRepo</id>
+        <url>http://54.242.81.68:8081/repository/pipeline-snapshot/</url>
+    </snapshotRepository>
 		
-		<repository>
-		    <id>NexusRepo</id>
-		    <url>http://54.242.81.68:8081/repository/pipeline-snapshot/</url>
-		</repository>
+    <repository>
+        <id>NexusRepo</id>
+        <url>http://54.242.81.68:8081/repository/pipeline-release/</url>
+    </repository>
   	</distributionManagement>
 
     
