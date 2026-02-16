@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: fbcont
-          image: vopshubg333/batch13:mindcircuit13img
+          image: devopshubg333/batch13:pythonapp
           ports:
             - containerPort: 8080
 
